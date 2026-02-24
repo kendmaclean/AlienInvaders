@@ -26,7 +26,7 @@ Claude Prompt:
 
 >read this AlienInvaders* package in depth, understand how it works deeply, what it does and all its specificities. when that’s done, write a detailed report of your learnings and findings in research.md
 
-The generated [research.md](research.md) file.
+The creates a [research.md](research.md) file in your images folder (e.g. '~/Pharo/images/AlienInvaders Pharo 12.0 - 64bit (stable)')
 
 ## Phase 2: Planning
 
