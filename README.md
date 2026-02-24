@@ -8,3 +8,8 @@ Metacello new
     repository: 'github://kendmaclean/AlienInvaders:master/src';
     load.
 ```
+To Run (from Playground):
+
+```smalltalk
+AlienInvadersController new start
+```
