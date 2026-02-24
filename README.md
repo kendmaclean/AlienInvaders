@@ -52,3 +52,5 @@ Lastely, tell Claude to update the plan with a checklist:
 prompt Claude with:
 
 >implement it all. when you’re done with a task or phase, mark it as completed in the plan document. do not stop until all tasks and phases are completed. do not add unnecessary comments. continuously review code-critique to make sure you’re not introducing new issues.
+
+Claude Code creates the new code, removes the old code, creates and runs test, and updates code if errors are uncoverd by the test.  Note that this approach is not perfect and you may still be required to make some minor fixes by hand, but it works surprisingly well.
