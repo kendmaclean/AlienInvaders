@@ -1,4 +1,4 @@
-Load into the Pharo Image
+# Load into the Pharo Image
 
 Open a Playground in the Pharo image and evaluate:
 
