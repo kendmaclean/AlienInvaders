@@ -11,7 +11,7 @@ BaselineOfAlienInvaders >> baseline: spec [
     spec for: #common do: [
         spec
             package: 'AlienInvaders-Model';
-            package: 'AlienInvaders-View' with: [ spec requires: #('AlienInvaders-Model' 'Roassal') ];
+            package: 'AlienInvaders-View' with: [ spec requires: #('AlienInvaders-Model') ];
             package: 'AlienInvaders-Controller' with: [ spec requires: #('AlienInvaders-Model' 'AlienInvaders-View') ];
             package: 'AlienInvaders-Tests' with: [ spec requires: 'AlienInvaders-Model' ].
 
