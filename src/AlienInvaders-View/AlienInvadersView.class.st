@@ -143,7 +143,7 @@ AlienInvadersView >> syncPlayer [
 
 { #category : 'updating' }
 AlienInvadersView >> syncPlayerBullets [
-    | active |
+    | active | 
     active := model playerBullets asIdentitySet.
     (playerBulletShapes keys reject: [ :b | active includes: b ]) do: [ :gone |
         canvas removeShape: (playerBulletShapes at: gone).
