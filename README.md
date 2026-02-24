@@ -18,7 +18,7 @@ AlienInvadersController new start
 
 (see [boris tane article: How I use Claude Code](https://boristane.com/blog/how-i-use-claude-code/) )
 
-This game started out as a single class working game that I used Claude AI (website) to create.  I used Claude Code and the [Balise MCP](https://github.com/kendmaclean/Balise) to implement and test these changes
+This game started out as a single class working game that I used Claude AI (website) to create.  I used Claude Code and the [Balise MCP](https://github.com/kendmaclean/Balise) to refactor it to MVC.
 
 ## Phase 1: Research
 
