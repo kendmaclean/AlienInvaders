@@ -26,13 +26,15 @@ Claude Prompt:
 
 >read this AlienInvaders* package in depth, understand how it works deeply, what it does and all its specificities. when that’s done, write a detailed report of your learnings and findings in research.md
 
+The generated [research.md](research.md) file.
+
 ## Phase 2: Planning
 
 Don't use Claude Code's plan mode, just prompt it with:
 
 >I want to refactor the AlienInvadersGame to use Model View Controller architecture. write a detailed plan.md document outlining how to implement this. include code snippets
 
-The plan.md doc can then be edited and is a good reference document of what was done.
+The [plan.md](plan.md) doc can then be edited and is a good reference document of what was done.
 
 I reviewed the plan, answered Claude's questions, made some minor notes, and the prompted Claude with: 
 
