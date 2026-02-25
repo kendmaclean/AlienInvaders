@@ -46,7 +46,7 @@ I only needed to repeat to do this once in this case, it is a simple task.
 
 Lastely, tell Claude to update the plan with a checklist:
 
->add a detailed todo list to the plan, with all the phases and individual tasks necessary to complete the plan - don’t implement yet
+>add a detailed checklist list to the plan, with all the phases and individual tasks necessary to complete the plan - don’t implement yet
 
 ## Phase 3: Implementation
 prompt Claude with:
