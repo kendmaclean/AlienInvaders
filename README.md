@@ -28,8 +28,6 @@ First Claude prompt:
 
 This creates a [research.md](research.md) file in your images folder (e.g. '~/Pharo/images/AlienInvaders Pharo 12.0 - 64bit (stable)')
 
-Note: uses up a lot of tokens.  Do not run every time.
-
 ## Phase 2: Planning
 
 Don't use Claude Code's plan mode, just prompt it with:
